@@ -14,3 +14,9 @@ Continue > E2E Testing >
 
 Dar play
 npx cypress run --record --key 0b4b7cfa-153f-4de1-adbd-3fbcf09a0dcf
+
+Site teste:
+https://demo.testfire.net/login.jsp
+https://www.saucedemo.com/
+https://the-internet.herokuapp.com/
+https://demo.automationtesting.in/Register.html
